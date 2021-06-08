@@ -1,5 +1,5 @@
 # Frontend practice with catalog page
-Replace `<your_account>` with your Github username and copy the links to Pull Request description:
+Replace `<your_account>` with your Github username and copy the links to Pull Request description: 
 - [DEMO LINK](https://krulykovskyi.github.io/layout_catalog/)
 - [TEST REPORT LINK](https://krulykovskyi.github.io/layout_catalog/report/html_report/)
 
